@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-search-autocomplete-with-api/static/css/main.f855e6bc.css",
+    "main.js": "/fcc-search-autocomplete-with-api/static/js/main.9d82991d.js",
+    "static/js/453.907ae3fc.chunk.js": "/fcc-search-autocomplete-with-api/static/js/453.907ae3fc.chunk.js",
+    "index.html": "/fcc-search-autocomplete-with-api/index.html",
+    "main.f855e6bc.css.map": "/fcc-search-autocomplete-with-api/static/css/main.f855e6bc.css.map",
+    "main.9d82991d.js.map": "/fcc-search-autocomplete-with-api/static/js/main.9d82991d.js.map",
+    "453.907ae3fc.chunk.js.map": "/fcc-search-autocomplete-with-api/static/js/453.907ae3fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9d82991d.js"
+  ]
+}
